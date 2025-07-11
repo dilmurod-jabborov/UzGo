@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace UzGo.Data.Repository;
 
-namespace UzGo.Data.Repository
+public class OrderService
 {
-    internal class OrderService
-    {
-    }
+
 }

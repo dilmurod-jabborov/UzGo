@@ -13,6 +13,4 @@ public class Driver
     public string PhoneNumber { get; set; }
     public string Password { get; set; }
     public Car Car { get; set; }
-    
-
 }
